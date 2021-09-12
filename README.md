@@ -18,6 +18,6 @@
   </p>
 </p>
 <br/><br/>
-- 🔭 I’m currently working on :)
-- 🌱 I’m currently learning php.
+- 🔭 I’m currently working on :)<br/>
+- 🌱 I’m currently learning php.<br/>
 - 📫 How to reach me: you can reach me from the social media links above
