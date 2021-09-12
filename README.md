@@ -17,7 +17,7 @@
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
   </p>
 </p>
-<br/><br/>
-- 🔭 I’m currently working on :)<br/>
-- 🌱 I’m currently learning php.<br/>
+<br><br>
+- 🔭 I’m currently working on :)<br>
+- 🌱 I’m currently learning php.<br>
 - 📫 How to reach me: you can reach me from the social media links above
