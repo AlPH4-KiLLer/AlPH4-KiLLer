@@ -46,7 +46,10 @@
 
 #### 📫 How to reach me:
 <p align="center">
-  <a href= "https://t.me/AlPH4_KiLLer"><img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"/></a>
-  <a href= "https://instagram.com/AlPH4_KiLLer"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"/></a>
-  <a href= "https://discord.gg/5MUjbpTm"><img src="https://img.icons8.com/dusk/48/000000/discord--v2.png"/></a>
+  <a href= "https://t.me/AlPH4_KiLLer"><img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"></a>
+  <a href= "https://instagram.com/AlPH4_KiLLer"><img src="https://img.icons8.com/dusk/48/000000/instagram.png"></a>
+  <a href= "https://discord.gg/5MUjbpTm"><img src="https://img.icons8.com/dusk/48/000000/discord--v2.png"></a>
+  <a href= "https://twitter.com/AlPH4_KiLLer"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"></a>
+  <a href= "https://www.facebook.com/110995771347540"><img src="https://img.icons8.com/dusk/48/000000/facebook.png"></a>
+  <a href= "https://steamcommunity.com/profiles/76561199119549006"><img src="https://img.icons8.com/dusk/48/000000/steam.png"></a>
 </p>
