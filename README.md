@@ -16,6 +16,7 @@
 ## 🎮 Games
 ![warzone](https://img.shields.io/badge/-Warzone-blue?%253Fstyle=flat-square&logo=battledotnet&logoColor=ffffff)
 ![CSGO](https://img.shields.io/badge/-CSGO-black?%253Fstyle=flat-square&logo=steam)
+![Dota2](https://img.shields.io/badge/-Dota2-black?%253Fstyle=flat-square&logo=steam)
 ![Warframe](https://img.shields.io/badge/-Warframe-black?%253Fstyle=flat-square&logo=steam)
 ![Apex Legends](https://img.shields.io/badge/-Apex%20Legends-black?%253Fstyle=flat-square&logo=steam)
 
